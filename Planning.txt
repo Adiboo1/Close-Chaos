@@ -1,3 +1,5 @@
-Planning
+------ Planning ------
 
+
+Block game - Have to navigate to the end target first to win 
 
