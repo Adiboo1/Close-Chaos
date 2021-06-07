@@ -358,3 +358,4 @@ Received Import Request.
 Start importing Assets/Cube Colour.mat using Guid(114a01c3a86bd8141aea7d1de4a3e2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '966ed36d642330e846160fc7977a51d0') in 0.058492 seconds
   Import took 0.060343 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
